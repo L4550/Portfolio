@@ -9,6 +9,7 @@
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Largedoor_model.PNG "Logo Title Text 1")
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Door_model.png "Logo Title Text 1")
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Door_texture.png "Logo Title Text 1")
+![alt text](https://github.com/L4550/Portfolio/blob/master/Lever.PNG "Logo Title Text 1")
 
 
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Cocksoft_logo.png "Logo Title Text 1")
