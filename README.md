@@ -6,6 +6,7 @@
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Aikido_log.png "Aikido")
 ![alt text](https://github.com/L4550/Portfolio/blob/master/chair-2.png "Logo Title Text 1")
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Character_model.PNG "Logo Title Text 1")
+![alt text](https://github.com/L4550/Portfolio/blob/master/Largedoor_model.PNG "Logo Title Text 1")
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Door_model.png "Logo Title Text 1")
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Door_texture.png "Logo Title Text 1")
 
