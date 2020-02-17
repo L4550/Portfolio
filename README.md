@@ -1,5 +1,3 @@
-Here's our logo (hover to see the title text):
-
 Inline-style: 
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Logo.png "Logo Title Text 1")
 
