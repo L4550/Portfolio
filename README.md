@@ -1,7 +1,8 @@
-Inline-style: 
+![alt text](https://github.com/L4550/Portfolio/blob/master/Artboard%201.png "Logo Title Text 1")
+![alt text](https://github.com/L4550/Portfolio/blob/master/Art.png")
+![alt text](https://github.com/L4550/Portfolio/blob/master/Logo_2.png")
 ![alt text](https://github.com/L4550/Portfolio/blob/master/Logo.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/L4550/Portfolio/blob/master/Logo.png "Logo Title Text 2"
+![alt text](https://github.com/L4550/Portfolio/blob/master/Logo.png "Logo Title Text 1")
+![alt text](https://github.com/L4550/Portfolio/blob/master/Logo.png "Logo Title Text 1")
+![alt text](https://github.com/L4550/Portfolio/blob/master/Logo.png "Logo Title Text 1")
+![alt text](https://github.com/L4550/Portfolio/blob/master/Logo.png "Logo Title Text 1")
